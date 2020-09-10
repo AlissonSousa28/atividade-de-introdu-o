@@ -1,0 +1,36 @@
+Alisson Marcos de Sousa     RA:1460682023001
+
+.ATIVIDADE DO 1 AO 5
+R: https://github.com/AlissonSousa28/atividade-de-introdu-o/commit/6ebc5ce3fb8cca87326c872a49994a36ef5e5504
+
+.ATIVIDADE 6 
+
+PARTE 1
+SISTEMA COMPUTACIONAL= SISTEMA OPERACIONAL - LINUX // SOFTWARE - SOURCEFORGE
+
+DADOS= É UM REGISTRO OU VALOR SEM SIGNIFICADO, EXEMPLO = 2
+INFORMAÇÃO= É UM DADO COM SIGNIFICADO, EXEMPLO= 33°C
+CONHECIMENTO= QUANDO UTILIZAMOS OS DADOS DA INFORMAÇÃO, EXEMPLO= AQUI NA MINHA CIDADE ESTÁ FAZENDO 40°C
+
+PARTE 2 - TABELA ASCII
+
+NOME  DECIMAL   BINÁRIO
+A       65       0100 0001
+l       108      0110 1100
+i       105      0110 1001    
+s       115      0111 0011      
+s       115      0111 0011
+o       111      0110 1111
+n       110      0110 1110
+S       83       0101 0011
+o       111      0110 1111
+u       117      0111 0101
+s       115      0111 0011
+a       97       0110 0001
+
+PARTE 3
+
+R: https://sourceforge.net/
+R:A criptografia deve ser utilizada a fim de proteger arquivos em nuvem ou dados em trânsito durante a navegação na internet. Por exemplo quando ultiliza um wi-fi público, alguém poderá estar de olho em todas suas ações na rede. Assim com a rede criptografada estará mais seguro.
+
+
